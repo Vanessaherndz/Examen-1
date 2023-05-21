@@ -1,7 +1,7 @@
 namespace universidad.models;
 
 
-    public class Regionsales
+    public class Region_sales
     {
 
     public guid Regionid {get;set}
